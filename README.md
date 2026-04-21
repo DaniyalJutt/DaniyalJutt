@@ -5,7 +5,7 @@
 
 ### 🧠 About Me  
 
-- 🎓 Pursuing **BS in Artificial Intelligence (BSAI)**  
+- 🎓 Graduate **BS in Artificial Intelligence (BSAI)**  
 - 🔭 Current Focus: **Deep Learning & Research**  
 - 💡 Exploring AI & Data Science through Kaggle — your upvotes & support mean a lot! 🙌  
 - 💬 Ask me about: `Python`, `Machine Learning`, `Deep Learning`, `Computer Vision`, `NLP`  
