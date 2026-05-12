@@ -17,7 +17,7 @@
 
 | 📛 Name | 📧 Email | 🔗 LinkedIn | 📷 Instagram | 🧠 Kaggle |
 |--------|----------|-------------|--------------|-----------|
-| **Daniyal Atta** | Daniyal60480@gmail.com | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-atta-5696b32ba/) | [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruh_dani) | [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/daniyalatta) |
+| **Daniyal Atta** | Daniyal60480@gmail.com | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyalattapk/) | [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruh_dani) | [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/daniyalatta) |
 
 ---
 
