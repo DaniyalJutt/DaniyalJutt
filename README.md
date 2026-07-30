@@ -1,40 +1,42 @@
 <h1 align="center">Hi 👋, I'm Daniyal Atta</h1>
 <h3 align="center">🇵🇰 Kaggle Enthusiast | 🤖 AI/ML Researcher | 📊 Data Science Explorer</h3>
 
----
-
-### 🧠 About Me  
-
-- 🎓 Graduate **BS in Artificial Intelligence (BSAI)**  
-- 🔭 Current Focus: **Deep Learning & Research**  
-- 💡 Exploring AI & Data Science through Kaggle — your upvotes & support mean a lot! 🙌  
-- 💬 Ask me about: `Python`, `Machine Learning`, `Deep Learning`, `Computer Vision`, `NLP`  
-- 📫 Reach me at: **Daniyal60480@gmail.com**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Researcher;Deep+Learning+Enthusiast;Computer+Vision+%26+NLP+Explorer;Kaggle+Competitor" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🔗 Connect With Me  
-
-| 📛 Name | 📧 Email | 🔗 LinkedIn | 📷 Instagram | 🧠 Kaggle |
-|--------|----------|-------------|--------------|-----------|
-| **Daniyal Atta** | Daniyal60480@gmail.com | [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyalattapk/) | [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruh_dani) | [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/daniyalatta) |
-
----
-
-## 🚀 Featured Kaggle Projects  
-
-| 📌 Project | 🔍 Description | 🔗 Link |
-|-----------|----------------|--------|
-| ⚽ **English Premier League Stats** | Data exploration & stats visualization for EPL | [View Notebook](https://www.kaggle.com/code/daniyalatta/this-is-best-english-premier-league-notebook) |
-| 🚕 **Uber Ride Analytics Dashboard** | Pickup-to-dropoff trip analysis & dashboard | [View Notebook](https://www.kaggle.com/code/daniyalatta/best-full-analysis-uber-pickup-to-drop-off) |
-| 🎶 **Predicting the Beats-per-Minute of Songs** | ML pipeline for BPM prediction | [View Repo](https://github.com/DaniyalJutt/Predicting-the-Beats-per-Minute-of-Songs) |
-| 🏦 **Bank Dataset Classification** | Binary classification using XGBoost (97.7% score) | [View Notebook](https://www.kaggle.com/code/daniyalatta/binary-classification-bank-dataset-xgboost-0-977) |
-| 🌡️ **Thermophysical Property — Melting Point** | Multi-target regression with AutoGluon | [View Notebook](https://www.kaggle.com/code/daniyalatta/autogluon-multi-1-upvote-1-motivations) |
-| 🕵️ **Fake or Real — Text Classification** | End-to-end ML/NLP pipeline for fake/real detection | [View Notebook](https://www.kaggle.com/code/daniyalatta/fake-real-endtoend-text-class-ml89-copy-test) |
+### 🧠 About Me
+- 🎓 Graduate **BS in Artificial Intelligence (BSAI)**
+- 🔭 Current Focus: **Deep Learning & Research**
+- 🌱 Currently exploring: **Advanced Computer Vision & NLP techniques**
+- 💬 Ask me about: `Python` `Machine Learning` `Deep Learning` `Computer Vision` `NLP`
+- 📫 Reach me at: **Daniyal60480@gmail.com**
+- ⚡ Fun fact: I love turning messy data into meaningful insights!
 
 ---
 
-### 🚀 My Tech Stack  
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="mailto:Daniyal60480@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/daniyalattapk/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ruh_dani" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/daniyalatta" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🚀 My Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -44,29 +46,17 @@
   <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=spacy&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Vision-0096FF?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Visualization-FF6384?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaniyalJutt&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalJutt&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=daniyalattapk&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
----
-
-### 🏆 GitHub Trophy Case  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DaniyalJutt&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 🐍 GitHub Contributions Snake  
-
-```text
-⚡ Loading contribution graph animation...
+<h3 align="center">💡 "You probably don't realize how much you have learn."</h3>
